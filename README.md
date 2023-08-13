@@ -50,4 +50,4 @@ sudo python3 dns_spoof.py www.example.com 10.0.2.15
 
 ## Disclaimer
 
-This tool is provided for educational and research purposes only. The author and OpenAI shall not be held responsible for any misuse or illegal activities conducted using this tool.
+This tool is provided for educational and research purposes only. The author shall not be held responsible for any misuse or illegal activities conducted using this tool.
